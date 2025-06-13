@@ -5,7 +5,7 @@ on:
       KERNEL_SUFFIX:
         description: '内核名称修改(可改中文和emoji)'
         required: true
-        default: '-酷安FutabaWa'
+        default: '-android15-8-g013ec21bba94-abogki383916444@DUGH'
       KERNEL_TIME:
        description: "内核构建日期更改(默认为原厂)"
        required: true
